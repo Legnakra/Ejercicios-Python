@@ -16,5 +16,5 @@
 distancia_millas = float(input("Distancia en millas marinas: "))
 #2. Convertir millas marinas a metros (distancia_millas*1852).
 metros= distancia_millas*1852
-#3. Mostrar el resultado.
+#3. Mostrar el resultado en metros.
 print("La distancia en metros es de: ",metros, "metros")
